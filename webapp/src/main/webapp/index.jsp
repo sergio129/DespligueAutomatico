@@ -22,7 +22,8 @@
     <br>
 
     <br />
-    Fecha y hora de nacimiento: <input type="datetime" name="datetime_control" />
+     <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
+    <input type="datetime" name="datetime_control" />
     <br />
 
     <label for="psw-repeat"><b>Repetir Contrasena</b></label>
