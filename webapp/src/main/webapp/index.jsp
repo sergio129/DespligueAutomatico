@@ -26,7 +26,7 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" id="botonregistrar" class="registerbtn" style="color:red">Registrar</button>
   </div>
 
   <div class="container signin">
