@@ -14,11 +14,11 @@
     <br>
 
     <label for="email"><b>Escribir Email</b></label>
-    <input type="text" placeholder="Email" name="email" id="email" required>
+    <input type="text" placeholder="Email" name="email_control" id="email" required>
 
     <br>
     <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
-    <input type="datetime" name="date_control" required />
+    <input type="date" name="date_control" required />
      <br />
 
     <label for="psw"><b>Contrasena</b></label>
