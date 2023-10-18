@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="mavenExecutorSetting">
+    <option name="defaultSettings">
+      <ExecutionSettings>
+        <option name="alwaysUpdateSnapshot" value="true" />
+        <option name="useOptionalJvmOptions" value="true" />
+        <option name="goals">
+          <list>
+            <option value="install" />
+          </list>
+        </option>
+        <option name="isUseOptionalJvmOptions" value="true" />
+        <option name="isAlwaysUpdateSnapshot" value="true" />
+        <option name="projectsToBuild">
+          <list>
+            <ProjectToBuild>
+              <option name="displayName" value="Maven Project" />
+              <option name="mavenArtifact">
+                <MavenArtifact>
+                  <option name="groupId" value="com.example.maven-project" />
+                  <option name="artifactId" value="maven-project" />
+                  <option name="version" value="1.0-SNAPSHOT" />
+                </MavenArtifact>
+              </option>
+              <option name="projectDictionary" value="$PROJECT_DIR$" />
+              <option name="selectedModules">
+                <list>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.example.maven-project" />
+                    <option name="artifactId" value="webapp" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.example.maven-project" />
+                    <option name="artifactId" value="maven-project" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                </list>
+              </option>
+            </ProjectToBuild>
+          </list>
+        </option>
+      </ExecutionSettings>
+    </option>
+    <option name="goalsHistory">
+      <History>
+        <option name="items">
+          <list>
+            <option value="install" />
+            <option value="compile" />
+            <option value="install package" />
+            <option value="clean install" />
+            <option value="mvn clean" />
+          </list>
+        </option>
+      </History>
+    </option>
+    <option name="visibleSettings">
+      <set>
+        <option value="PROFILES" />
+        <option value="OPTIONAL_JVM_OPTIONS" />
+        <option value="THREAD_COUNT" />
+        <option value="OFFLINE_MODE" />
+        <option value="ALWAYS_UPDATE_SNAPSHOT" />
+        <option value="SKIP_TESTS" />
+        <option value="FAVORITE" />
+      </set>
+    </option>
+    <option name="visibleSettingsNotInitYet" value="false" />
+  </component>
+</project>
