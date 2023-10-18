@@ -6,7 +6,7 @@
     <hr>
      
     <label for="Name"><b>Escriba nombre</b></label>
-    <input type="text" placeholder="Nombre completo" name="Name" id="Name" required>
+    <input type="text" placeholder="Nombre completo" name="Name" autofocus id="Name" required>
     <br>
     
     <label for="mobile"><b>Escribir numero Movil</b></label>
