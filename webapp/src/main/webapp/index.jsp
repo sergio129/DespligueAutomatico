@@ -28,14 +28,10 @@
     <label for="psw-repeat"><b>Repetir Contrasena</b></label>
     <input type="password" placeholder="Repetir Contrasena" name="psw-repeat" id="psw-repeat" required>
     <hr>
-    <button _ngcontent-ipt-c2="" color="primary" id="loginIngresar" mat-raised-button="" type="submit" class="mat-raised-button mat-button-base mat-primary">
-    <span class="mat-button-wrapper">Ingresar</span>
-    <div class="mat-button-ripple mat-ripple" matripple=""></div>
-    <div class="mat-button-focus-overlay"></div>
-    </button>
+
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" id="botonregistrar" class="registerbtn" style="color:red">Registrar</button>
+    <button type="submit" id="botonregistrar" class="registerbtn" style="vertical-align:bottom;width:60px">Registrar</button>
   </div>
 
   <div class="container signin">
