@@ -34,24 +34,28 @@
     <button type="submit" id="botonregistrar" class="registerbtn" style="color:red">Registrar</button>
   </div>
 
-<fieldset>
-  <legend>¿Cuál es tu comida favorita?</legend>
-  <ul>
-    <li>
-      <label for="soup">Sopa</label>
-      <input type="radio" id="soup" name="meal" value="soup" checked />
-    </li>
-    <li>
-      <label for="curry">Curry</label>
-      <input type="radio" id="curry" name="meal" value="curry" />
-    </li>
-    <li>
-      <label for="pizza">Pizza</label>
-      <input type="radio" id="pizza" name="meal" value="pizza" />
-    </li>
-  </ul>
-</fieldset>
-
+  <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <fieldset>
+    <legend>¿Cual es tu comida favorita?</legend>
+    <ul>
+      <li>
+        <label for="soup">Sopa</label>
+        <input type="radio" id="soup" name="meal" value="soup" checked />
+      </li>
+      <li>
+        <label for="curry">Curry</label>
+        <input type="radio" id="curry" name="meal" value="curry" />
+      </li>
+      <li>
+        <label for="pizza">Pizza</label>
+        <input type="radio" id="pizza" name="meal" value="pizza" />
+      </li>
+    </ul>
+  </fieldset>
+
+
+
 </form>
 
