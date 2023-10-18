@@ -38,7 +38,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   <fieldset>
-    <legend>¿Cual es tu comida favorita?</legend>
+    <legend>Cual es tu comida favorita?</legend>
     <ul>
       <li>
         <label for="soup">Sopa</label>
