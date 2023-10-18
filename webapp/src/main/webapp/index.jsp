@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:red">Hola Esto es una prueba de despliegue automatico Jenkins Version 1</h1>
@@ -21,7 +18,7 @@
 
     <br>
     <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
-    <input type="datetime" name="datetime_control" required />
+    <input type="datetime" name="date_control" required />
      <br />
 
     <label for="psw"><b>Contrasena</b></label>
@@ -40,5 +37,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
-</body>
-</html>
+
