@@ -17,12 +17,12 @@
     <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Contraseña</b></label>
-    <input type="password" placeholder="Contraseña" name="psw" id="psw" required>
+    <label for="psw"><b>Contrasena</b></label>
+    <input type="password" placeholder="Contrasena" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repetir Contraseña</b></label>
-    <input type="password" placeholder="Repetir Contraseña" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>Repetir Contrasena</b></label>
+    <input type="password" placeholder="Repetir Contrasena" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
