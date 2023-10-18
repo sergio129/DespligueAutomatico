@@ -21,9 +21,8 @@
     <input type="password" placeholder="Contrasena" name="psw" id="psw" required>
     <br>
 
-    <br />
      <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
-    <input type="datetime" name="datetime_control" />
+    <input type="datetime" name="datetime_control" required />
     <br />
 
     <label for="psw-repeat"><b>Repetir Contrasena</b></label>
