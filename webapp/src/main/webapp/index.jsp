@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:red">Hola Esto es una prueba de despliegue automatico Jenkins Version 1</h1>
@@ -15,15 +18,15 @@
 
     <label for="email"><b>Escribir Email</b></label>
     <input type="text" placeholder="Email" name="email" id="email" required>
+
     <br>
+    <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
+    <input type="datetime" name="datetime_control" required />
+     <br />
 
     <label for="psw"><b>Contrasena</b></label>
     <input type="password" placeholder="Contrasena" name="psw" id="psw" required>
     <br>
-
-     <label for="fecha"><b> Fecha y hora de nacimiento:</b></label>
-    <input type="datetime" name="datetime_control" required />
-    <br />
 
     <label for="psw-repeat"><b>Repetir Contrasena</b></label>
     <input type="password" placeholder="Repetir Contrasena" name="psw-repeat" id="psw-repeat" required>
@@ -37,3 +40,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+</body>
+</html>
