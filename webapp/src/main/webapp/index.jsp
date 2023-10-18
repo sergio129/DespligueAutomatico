@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Hola Esto es una prueba de despliegue automatico Jenkins Version 1</h1>
-    <h1>Sergio Anaya</h1>
+    <h1 style="color:Blue">Sergio Anaya</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Escriba nombre</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
