@@ -34,13 +34,23 @@
     <button type="submit" id="botonregistrar" class="registerbtn" style="color:red">Registrar</button>
   </div>
 
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-    <div id="ctl00_ContentPlaceInner_RadTabStrip1" class="RadTabStrip RadTabStrip_Forest RadTabStripTop_Forest">
-    	<!-- 2011.3.1115.35 --><div class="rtsLevel rtsLevel1">
-    		<ul class="rtsUL"><li class="rtsLI rtsFirst"><a class="rtsLink rtsSelected" href="#"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Grupos Activos</span></span></span></a></li><li class="rtsLI rtsLast"><a class="rtsLink rtsAfter" href="#"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Info Perfil</span></span></span></a></li></ul>
-    	</div><input id="ctl00_ContentPlaceInner_RadTabStrip1_ClientState" name="ctl00_ContentPlaceInner_RadTabStrip1_ClientState" type="hidden" autocomplete="off" value="{&quot;selectedIndexes&quot;:[&quot;0&quot;],&quot;logEntries&quot;:[],&quot;scrollState&quot;:{}}">
-    </div>
+<fieldset>
+  <legend>¿Cuál es tu comida favorita?</legend>
+  <ul>
+    <li>
+      <label for="soup">Sopa</label>
+      <input type="radio" id="soup" name="meal" value="soup" checked />
+    </li>
+    <li>
+      <label for="curry">Curry</label>
+      <input type="radio" id="curry" name="meal" value="curry" />
+    </li>
+    <li>
+      <label for="pizza">Pizza</label>
+      <input type="radio" id="pizza" name="meal" value="pizza" />
+    </li>
+  </ul>
+</fieldset>
 
   </div>
 </form>
