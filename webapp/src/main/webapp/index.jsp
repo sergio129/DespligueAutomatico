@@ -54,7 +54,7 @@
       </li>
     </ul>
   </fieldset>
-<div class="container">
+<div class="mat-card-content">
 <label for="soup">Numero de Expediente</label>
 <input  formcontrolname="case" id="case" matinput="" maxlength="16" placeholder="Expediente" aria-invalid="false" aria-required="false"/>
 </div>
