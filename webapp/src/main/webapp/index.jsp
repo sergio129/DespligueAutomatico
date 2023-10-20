@@ -72,6 +72,5 @@
 <input id="applicantName" matinput="" maxlength="80" placeholder="Nombre solicitante" required type="applicant_name" aria-invalid="true" aria-required="true">
 </div>
   </fieldset>
-
 </form>
 
