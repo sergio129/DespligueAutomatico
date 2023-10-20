@@ -54,11 +54,9 @@
       </li>
     </ul>
   </fieldset>
-<div class="mat-form-field-infix">
-<input _ngcontent-pjp-c23="" class="form-control input-text-bold mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-pristine ng-valid ng-touched" formcontrolname="case" id="case" matinput="" maxlength="16" placeholder="Expediente" aria-invalid="false" aria-required="false">
-<span class="mat-form-field-label-wrapper"><!---->
-<label id="mat-form-field-label-13" for="case" aria-owns="case"><!----><!---->
-<span class="ng-tns-c5-13 ng-star-inserted">Expediente</span><!----><!----></label></span></div>
-
+<div class="container">
+<label for="soup">Numero de Expediente</label>
+<input  formcontrolname="case" id="case" matinput="" maxlength="16" placeholder="Expediente" aria-invalid="false" aria-required="false"/>
+</div>
 </form>
 
