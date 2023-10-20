@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:red">Hola Esto es una prueba de despliegue automatico Jenkins Version 1</h1>
-    <h1 style="color:Blue">Sergio Anaya</h1>
+    <h1 style="color:Blue">Pruebas QA</h1>
     <p>Registro de personas</p>
     <hr>
      
@@ -54,8 +54,6 @@
       </li>
     </ul>
   </fieldset>
-
-
  <fieldset>
  <style>
  .mat-card-content {
