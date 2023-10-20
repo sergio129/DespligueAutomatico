@@ -67,7 +67,7 @@
  </style>
 <div class="mat-card-content">
 <label for="soup">Numero de Expediente</label>
-<input  type="number" min="0" step="1" maxlength="16" formcontrolname="case" id="case"  placeholder="Expediente" aria-invalid="true" aria-required="true">
+<input  type="number" maxlength="16" min="0" step="1"  formcontrolname="case" id="case"  placeholder="Expediente" aria-invalid="true" aria-required="true">
 <label for="soup">Nombre solicitante</label>
 <input id="applicantName" matinput="" maxlength="80" placeholder="Nombre solicitante" required type="applicant_name" aria-invalid="true" aria-required="true">
 </div>
