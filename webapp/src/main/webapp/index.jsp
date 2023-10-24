@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:red">Hola Esto es una prueba de despliegue automatico Jenkins Version 1</h1>
-    <h1 style="color:Blue">demostracion  Despligues</h1>
+    <h1 style="color:Blue">Muestra QA</h1>
     <p>Registro de personas</p>
     <hr>
      
